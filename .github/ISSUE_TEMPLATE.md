@@ -3,10 +3,10 @@ Thank you for reporting an issue.
 
 Please fill in as much of the template below as you're able.
 
-Platform: output of `uname -a | pbcopy` (UNIX), or version and 32 or 64-bit (Windows)
+Platform: Run `uname -a | pbcopy` in terminal to copy the output to your pasteboard, or version and 32 or 64-bit (Windows)
 Step to reproduce :  please provide clear steps to reproduce the bug
-Current behaviour: how the software behaves currently
-Expected behaviour : how the software should behave
+Current behavior: how the software behaves currently
+Expected behavior : how the software should behave
 Workaround: workaround the issue if there is any (this will help users having the same issue)
 -->
 
@@ -15,9 +15,9 @@ Workaround: workaround the issue if there is any (this will help users having th
 
 ### Steps to reproduce
 
-### Current behaviour
+### Current behavior
 
-### Expected behaviour
+### Expected behavior
 
 ### Workaround
 
